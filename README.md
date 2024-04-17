@@ -5,6 +5,7 @@
 <br>
 <h3>Description</h3>
 <ul>
+  <li>IT-language: React</li>
   <li>Go to: [https://main--keen-dasik-b83cd6.netlify.app/]</li>
   <li>Fill any inputs you like.</li>
   <li>If you did it, delete what you did.</li>
